@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+  "pattern": [
+    " W ",
+    "WGW",
+    "WRW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "G": {
+      "item": "rainbowcatmod:rainbow_powder"
+    }
+  },
+  "result": {
+    "item": "rainbowcatmod:rainbowcatblock"
+  }
+}

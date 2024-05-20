@@ -1,0 +1,254 @@
+{
+  "multipart": [
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock",
+      "y": 180
+    },
+      "when": {
+        "rotation": 0,
+        "state": "0|1"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_67_5",
+      "y": 270
+    },
+      "when": {
+        "rotation": 1,
+        "state": "0|1"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_45",
+      "y": 270
+    },
+      "when": {
+        "rotation": 2,
+        "state": "0|1"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_22_5",
+      "y": 90
+    },
+      "when": {
+        "rotation": 3,
+        "state": "0|1"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock",
+      "y": 270
+    },
+      "when": {
+        "rotation": 4,
+        "state": "0|1"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_67_5"
+    },
+      "when": {
+        "rotation": 5,
+        "state": "0|1"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_45"
+    },
+      "when": {
+        "rotation": 6,
+        "state": "0|1"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_22_5",
+      "y": 180
+    },
+      "when": {
+        "rotation": 7,
+        "state": "0|1"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock"
+    },
+      "when": {
+        "rotation": 8,
+        "state": "0|1"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_67_5",
+      "y": 90
+    },
+      "when": {
+        "rotation": 9,
+        "state": "0|1"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_45",
+      "y": 90
+    },
+      "when": {
+        "rotation": 10,
+        "state": "0|1"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_22_5",
+      "y": 270
+    },
+      "when": {
+        "rotation": 11,
+        "state": "0|1"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock",
+      "y": 90
+    },
+      "when": {
+        "rotation": 12,
+        "state": "0|1"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_67_5",
+      "y": 180
+    },
+      "when": {
+        "rotation": 13,
+        "state": "0|1"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_45",
+      "y": 180
+    },
+      "when": {
+        "rotation": 14,
+        "state": "0|1"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_22_5"
+    },
+      "when": {
+        "rotation": 15,
+        "state": "0|1"
+      }},
+
+
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_light",
+      "y": 180
+    },
+      "when": {
+        "rotation": 0,
+        "state": "2"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_light_67_5",
+      "y": 270
+    },
+      "when": {
+        "rotation": 1,
+        "state": "2"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_light_45",
+      "y": 270
+    },
+      "when": {
+        "rotation": 2,
+        "state": "2"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_light_22_5",
+      "y": 90
+    },
+      "when": {
+        "rotation": 3,
+        "state": "2"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_light",
+      "y": 270
+    },
+      "when": {
+        "rotation": 4,
+        "state": "2"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_light_67_5"
+    },
+      "when": {
+        "rotation": 5,
+        "state": "2"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_light_45"
+    },
+      "when": {
+        "rotation": 6,
+        "state": "2"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_light_22_5",
+      "y": 180
+    },
+      "when": {
+        "rotation": 7,
+        "state": "2"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_light"
+    },
+      "when": {
+        "rotation": 8,
+        "state": "2"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_light_67_5",
+      "y": 90
+    },
+      "when": {
+        "rotation": 9,
+        "state": "2"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_light_45",
+      "y": 90
+    },
+      "when": {
+        "rotation": 10,
+        "state": "2"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_light_22_5",
+      "y": 270
+    },
+      "when": {
+        "rotation": 11,
+        "state": "2"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_light",
+      "y": 90
+    },
+      "when": {
+        "rotation": 12,
+        "state": "2"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_light_67_5",
+      "y": 180
+    },
+      "when": {
+        "rotation": 13,
+        "state": "2"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_light_45",
+      "y": 180
+    },
+      "when": {
+        "rotation": 14,
+        "state": "2"
+      }},
+    {"apply": {
+      "model": "rainbowcatmod:block/rainbowcatblock_light_22_5"
+    },
+      "when": {
+        "rotation": 15,
+        "state": "2"
+      }}
+  ]
+}
