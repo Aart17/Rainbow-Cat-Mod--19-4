@@ -14,7 +14,9 @@ There are three modes that can be switched by right-clicking.
 1. Off state
 2. Enabled state (normal texture)
 3. Enabled state (rainbow shimmering texture)
+   
 The new сrafts look like this:
+
 Rainbow dust:
 ![image](https://github.com/Aart17/Rainbow-Cat-Mod--19-4/assets/74155280/f382b7f7-93bc-4cd5-b896-546b1f0dd5ad)
 
